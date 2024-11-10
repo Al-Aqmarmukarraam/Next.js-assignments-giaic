@@ -1,5 +1,5 @@
-import React from 'react'
-import projects from './Projects';
+import React from 'react';
+
 
 interface propsType {
     title: string;
